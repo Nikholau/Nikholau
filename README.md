@@ -20,7 +20,6 @@
   <a href = "mailto:nikholas.queiroz@ufv.brimg src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nikholas-queiroz-591b80190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/Nikholau/Nikholau/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
