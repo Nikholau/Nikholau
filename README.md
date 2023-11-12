@@ -4,8 +4,8 @@ Sou Desenvolvedor Web e gosto de trabalhar com TypeScript.
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando em Projetos Independentes.
-- 🌱 Atualmente estou aprendendo React Native
+- 🔭 Trabalhando no Mundo Invest.
+- 🌱 Atualmente estou aprendendo Next JS
 - 📫 Como chegar até mim: nikholas.queiroz@ufv.br.
 
 ## Habilidades
@@ -14,6 +14,9 @@ Sou Desenvolvedor Web e gosto de trabalhar com TypeScript.
 - TypeScript
 - JavaScript
 - Git
+- Jest
+- Cypress
+- Next JS
 
 
 ## Estatísticas do GitHub
