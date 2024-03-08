@@ -5,7 +5,7 @@ Sou Desenvolvedor Web e gosto de trabalhar com TypeScript.
 ## Sobre mim
 
 - 🔭 Trabalhando no Mundo Invest.
-- 🌱 Atualmente estou aprendendo Next JS
+- 🌱 Atualmente estou aprendendo TypeORM
 - 📫 Como chegar até mim: nikholas.queiroz@ufv.br.
 
 ## Habilidades
