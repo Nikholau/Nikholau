@@ -4,12 +4,13 @@ Sou Desenvolvedor Web e gosto de trabalhar com TypeScript.
 
 ## Sobre mim
 
-- 🔭 Trabalhando no Mundo Invest.
-- 🌱 Atualmente estou aprendendo TypeORM
+- 🔭 Trabalhando no https://www.mundoinvest.com.br/.
+- 🌱 Atualmente estou aprendendo Python e React Native
 - 📫 Como chegar até mim: nikholas.queiroz@ufv.br.
 
 ## Habilidades
 
+- React Native
 - ReactJS
 - TypeScript
 - JavaScript
