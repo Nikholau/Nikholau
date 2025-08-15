@@ -31,19 +31,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Nikholau">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikholau&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de Nikholau" />
-  </a>
-  <a href="https://github.com/Nikholau">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikholau&layout=compact&theme=dark&hide=html" alt="Top Linguagens do GitHub de Nikholau" />
-  </a>
-</div>
-
----
-
 ## 🏆 Conquistas
 
 - 🚀 Contribuições ativas em projetos open source.
