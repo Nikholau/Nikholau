@@ -69,14 +69,12 @@
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Nikholau&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikholau&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css" />
-</div>
 
-<br/>
+![Years](https://img.shields.io/badge/coding%20since-2021-1E6FE1?style=flat-square&logo=github&logoColor=white)
+[![Followers](https://img.shields.io/github/followers/Nikholau?style=flat-square&color=1E6FE1&logo=github&logoColor=white&label=followers)](https://github.com/Nikholau?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Nikholau?style=flat-square&color=1E6FE1&logo=github&logoColor=white&label=total%20stars)](https://github.com/Nikholau?tab=repositories)
+![PRs](https://img.shields.io/badge/PRs%20merged-383-1E6FE1?style=flat-square&logo=git&logoColor=white)
 
-<div align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikholau&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---
