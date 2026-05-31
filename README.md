@@ -69,8 +69,14 @@
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikholau&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikholau&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Nikholau&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikholau&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikholau&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---
