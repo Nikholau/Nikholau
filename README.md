@@ -69,6 +69,10 @@
 ## Stats
 
 <div align="center">
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+<div align="center">
 
 ![Years](https://img.shields.io/badge/coding%20since-2021-1E6FE1?style=flat-square&logo=github&logoColor=white)
 [![Followers](https://img.shields.io/github/followers/Nikholau?style=flat-square&color=1E6FE1&logo=github&logoColor=white&label=followers)](https://github.com/Nikholau?tab=followers)
